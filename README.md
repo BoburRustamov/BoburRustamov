@@ -44,11 +44,15 @@ Specialties: BI dashboards, data visualization, interactive UIs, mapping applica
 📫 Let’s Connect
 
 🤝 Reach Out – I Respond Fast
+
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakhtiyorovic) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/998935825229)
 
 🌐 Professional Links
+
   Portfolio: https://boburrustamov.netlify.app/
+  
   LinkedIn: https://linkedin.com/in/bobur-rustamov-85343922b
+  
   Upwork: https://www.upwork.com/freelancers/~01c2f2593af4613a2?mp_source=share
 
 💼 Open for Freelance Work · 🌍 Remote-Friendly · ⚡ Quick Response Time
