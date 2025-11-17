@@ -41,7 +41,7 @@
     availableFor: "Freelance projects & collaborations",
     funFact: "Started coding in 2021, now working internationally! 🌍"
   };
-
+```
   🎯 What I Do
 
   - 🔥 Build scalable React applications with TypeScript
