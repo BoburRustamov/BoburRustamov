@@ -13,238 +13,52 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-```ts
-const bobur = {
-  location: "🇺🇿 Tashkent, Uzbekistan → 🇲🇾 Malaysia",
-  currentRole: "Frontend Developer @ DataMicron",
-  experience: "2.7+ years (since March 2022)",
-  education: "PROWEB Academy (2021) + Self-taught React",
-  passion: "Building cutting-edge web experiences",
+I'm a frontend developer from 🇺🇿 Tashkent, now working in 🇲🇾 Malaysia as a Frontend Developer @ DataMicron.
+Since March 2022, I've been building React + TypeScript applications, focusing on BI dashboards, data visualization, and interactive mapping tools. I love creating clean, modern, and performant UIs that feel great to use.
 
-  expertise: {
-    frontend: ["React", "TypeScript", "Next.js", "Angular"],
-    stateManagement: ["Redux", "Effector"],
-    styling: ["TailwindCSS", "Mantine UI", "SCSS"],
-    specializations: [
-      "BI Dashboards",
-      "Data Visualization",
-      "Interactive Mapping Applications",
-      "Responsive Design"
-    ]
-  },
-
-  currentFocus: "Building scalable React applications with TypeScript",
-  availableFor: "Freelance projects & collaborations",
-  funFact: "Started coding in 2021, now working internationally! 🌍"
-};
 🎯 What I Do
-🔥 Build scalable React applications with TypeScript
 
-📊 Create stunning BI dashboards and data visualizations
+🔥 Build scalable, production-ready React + TypeScript applications
 
-🗺️ Develop interactive mapping applications
+📊 Design and implement BI dashboards and data visualizations
 
-⚡ Optimize performance and user experience
+🗺️ Develop interactive mapping applications for geospatial data
 
-🎨 Craft responsive, mobile-first designs
+⚡ Improve performance, DX, and UX in large frontend codebases
 
-🌟 Contribute to open source projects
+🎨 Deliver responsive, mobile-first user interfaces
 
-🛠️ Tech Stack & Tools
-<div align="center">
+🌟 Collaborate on and contribute to open-source projects
 
+🛠 Tech Stack & Tools
 
-</div>
-Languages
-
-
-
-
-
-Frontend Frameworks
+Core: React, TypeScript, JavaScript, Next.js, Angular
+State Management: Redux, Effector
+UI & Styling: Tailwind CSS, Mantine UI, SCSS, Ant Design, styled-components
+Build & Dev Tools: Vite, Webpack, npm, Git
+Specialties: BI dashboards, data visualization, interactive UIs, mapping applications
 
 
+📫 Let’s Connect
 
-
-
-State Management
-
-
-
-Styling & UI Libraries
-
-
-
-
-
-
-Build Tools & Dev Tools
-
-
-
-
-
-Design Tools
-
-
-
-📊 GitHub Statistics
-<div align="center">
-
-
-</div>
-🏆 GitHub Trophies
-<div align="center">
-
-</div>
-🚀 Featured Projects
-🌟 Recent Work
-portfolio2
-
-analytics-dashboard_React
-
-youtube_clone
-
-nextjs_dashboard
-
-💼 Project Highlights
-Project	Description	Tech Stack	Status
-🎨 Personal Portfolio	Modern portfolio with AI chat assistant	React 19, TypeScript, Mantine UI	✅ Live
-📊 Analytics Dashboard	Interactive BI dashboard with data viz	React, TypeScript, Chart.js	✅ Live
-🎥 YouTube Clone	Full-featured video platform clone	React, TypeScript, YouTube API	✅ Live
-📱 Next.js Dashboard	Server-side rendered dashboard	Next.js, TypeScript, Tailwind	✅ Live
-🗺️ Mapping Tools	Interactive geospatial applications	React, TypeScript, Mapping APIs	🚧 In Progress
-
-📈 Contribution Activity
-
-
-💼 Professional Journey
-mermaid
-Copy code
-timeline
-    title My Frontend Development Journey
-    2021 : Started at PROWEB Academy
-          : Learned HTML, CSS, JavaScript fundamentals
-          : Discovered passion for web development
-    2022 : Self-taught React & TypeScript
-          : March 2022 - Started professional career
-          : Built first production applications
-    2023 : Mastered state management (Redux, Effector)
-          : Specialized in data visualization
-          : Expanded to BI dashboards & mapping tools
-    2024 : Joined DataMicron in Malaysia
-          : Working on international projects
-          : 2.7+ years of professional experience
-    2025 : Leading frontend development
-          : Open to freelance opportunities
-          : Continuous learning & growth
-🎓 Skills & Expertise
-Frontend Development
-██████████████████████ 95% React
-██████████████████████ 95% TypeScript
-█████████████████████ 90% JavaScript
-████████████████████ 85% Next.js
-███████████████████ 80% Angular
-
-State Management
-█████████████████████ 90% Redux
-████████████████████ 85% Effector
-██████████████████ 75% Context API
-
-Styling & Design
-██████████████████████ 95% CSS/SCSS
-█████████████████████ 90% TailwindCSS
-████████████████████ 85% Mantine UI
-████████████████████ 85% Responsive Design
-
-Specializations
-█████████████████████ 90% Data Visualization
-████████████████████ 85% BI Dashboards
-████████████████████ 85% Interactive UI
-██████████████████ 80% Mapping Applications
-
-🌟 What I'm Currently Doing
-🔭 Working on: Enterprise-level React applications at DataMicron
-
-🌱 Learning: Advanced TypeScript patterns, Web3, and AI integration
-
-👯 Looking to collaborate on: Open source React projects, UI libraries
-
-💬 Ask me about: React, TypeScript, State Management, Data Visualization
-
-⚡ Fun fact: Went from zero coding knowledge to international developer in 3 years!
-
-📫 Let's Connect!
-🤝 Reach Out - I Respond Fast!
-Telegram: @bakhtiyorovic
-
-WhatsApp: Chat on WhatsApp
-
-Email: boburrustamov2003@gmail.com
+🤝 Reach Out – I Respond Fast
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakhtiyorovic) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/998935825229)
 
 🌐 Professional Links
-Portfolio: https://github.com/BoburRustamov/portfolio2
+  Portfolio: https://boburrustamov.netlify.app/
+  LinkedIn: https://linkedin.com/in/bobur-rustamov-85343922b
+  Upwork: https://www.upwork.com/freelancers/~01c2f2593af4613a2?mp_source=share
 
-LinkedIn: https://linkedin.com/in/bobur-rustamov-85343922b
-
-Upwork: https://www.upwork.com/freelancers/~01c2f2593af4613a2?mp_source=share
-
-💼 Open for Freelance Work | 🌍 Remote-Friendly | ⚡ Quick Response Time
+💼 Open for Freelance Work · 🌍 Remote-Friendly · ⚡ Quick Response Time
 
 💡 Fun Facts & Interests
-🌍 From: Tashkent, Uzbekistan → Working in: Malaysia 🇲🇾
 
-🎓 Education: PROWEB Academy (2021) + Self-taught React developer
+🌍 From Tashkent, Uzbekistan → working in Malaysia
 
-📚 Continuous learner - Always exploring new frontend technologies
+🎮 Enjoy building side projects and exploring UI/UX trends
 
-🎯 Career Goal: Become a leading expert in frontend architecture
+☕ Coffee + code is my favorite combo
 
-🎮 Hobbies: Coding side projects, exploring UI/UX design trends
-
-☕ Favorite: Coffee + Code = Perfect combination
-
-🚀 Proudest Achievement: Self-taught React → Professional developer → International career
-
-📱 Preferred Contact: Telegram & WhatsApp (fastest response!)
-
-📊 Weekly Development Breakdown
-TypeScript 12 hrs 30 mins ████████████░░░░░ 45.2%
-React 8 hrs 15 mins ███████░░░░░░░░░░ 29.8%
-JavaScript 4 hrs 20 mins ████░░░░░░░░░░░░░ 15.7%
-CSS/SCSS 1 hr 45 mins █░░░░░░░░░░░░░░░░ 6.3%
-JSON 0 hrs 50 mins ░░░░░░░░░░░░░░░░░ 3.0%
-
-🎯 2025 Goals
-✅ Master advanced TypeScript patterns
-
-🔄 Contribute to popular open-source React libraries
-
-🔄 Build and launch 3 side projects
-
-📝 Start writing technical blog posts
-
-🎓 Learn Web3 and blockchain integration
-
-🌟 Reach 100+ GitHub stars across repositories
-
-💼 Take on 5+ freelance projects
-
-🤝 Mentor junior developers
-
-💭 Developer Quote of the Day
-
-
-📊 Profile Summary
-
-
-
-
-⭐ Show some love by starring my repositories!
-
-Thanks for visiting my profile! Let's build something amazing together! 🚀
-
-
-
+🚀 Proud: Self-taught React → professional dev → international career
