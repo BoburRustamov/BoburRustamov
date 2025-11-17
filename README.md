@@ -3,16 +3,16 @@
   <!-- Animated Wave Header -->
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Bobur%20Rustamov&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20TypeScript%20Expert&descAlignY=55&descSize=18)
 
-  <!-- Typing Animation -->
+  <!-- Typing Animation (redirects to portfolio) -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Expert;Building+Interactive+Web+Apps;Data+Visualization+Specialist;TypeScript+%2B+Modern+Stack;Open+to+Freelance+%26+Collaborations)](https://boburrustamov.netlify.app/)
 
-  <!-- Profile Views -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=BoburRustamov&color=22d3ee&style=for-the-badge&label=Profile+Views)
+  <!-- Profile Views (redirects to portfolio) -->
+  [![Profile Views](https://komarev.com/ghpvc/?username=BoburRustamov&color=22d3ee&style=for-the-badge&label=Profile+Views)](https://boburrustamov.netlify.app/)
 
 </div>
 
-
 ---
+
 
 🚀 About Me
 
